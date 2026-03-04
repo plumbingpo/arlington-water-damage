@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arlingtonrestorationco.com/sitemap.xml
